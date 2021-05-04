@@ -5,7 +5,7 @@ ___
 ## About  
 It is a clone of widely used Slack application which can send message in real time. I have primarily used ReactJS and Firebase for this project.
 This application actually retains all the messages in firestore database which allows user to keep track of their previous conversations. This applications also allows users to communicate in real time.  
-[Link](https://slack-2-1e793.web.app)  
+[Link](https://slack-2-1e793.web.app){:target = "_blank"}  
 ___
 ## Technology Used  
 ***React.JS  
